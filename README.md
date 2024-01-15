@@ -4,4 +4,5 @@ Clone the repo and install all the dependencies by just typing npm install. Try 
 
 Live link: https://social-post-generator.vercel.app/
 
-<img width="1582" alt="image" src="https://github.com/LalitKumar234/Social-Post-Generator/assets/64685787/01fa4d1a-4840-46ac-aee5-9b6ea4b0afbc">
+
+![social-post](https://github.com/Zameer-fatima/Social-post-generator/assets/89373003/14c40ac7-92df-4041-9b3a-fb31dab627a0)
